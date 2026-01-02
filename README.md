@@ -1,2 +1,2 @@
-# Sprint_2-Korablev-39-Final_Project
-Sprint_2-The_final_project
+# Sprint_2-Korablev-39-final_project
+The final draft of the second sprint
